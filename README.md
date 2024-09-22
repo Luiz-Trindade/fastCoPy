@@ -1,5 +1,7 @@
 # fastCoPy ⚡📁
 
+![captura de tela](img/screenshot.png "Captura de tela")
+
 `fastCoPy` é uma ferramenta simples e rápida para copiar arquivos de forma eficiente utilizando multiprocessamento. O programa permite selecionar diretórios de origem e destino através de uma interface gráfica construída com `CustomTkinter`.
 
 ## Funcionalidades
@@ -27,6 +29,6 @@ pip install customtkinter
 
 ## Como usar
 ```bash
-git clone https://github.com/seu-usuario/fastCoPy.git
+git clone https://github.com/Luiz-Trindade/fastCoPy.git
 cd fastCoPy
 ```
